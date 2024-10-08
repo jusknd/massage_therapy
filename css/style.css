@@ -1,0 +1,31 @@
+:root{
+    --prim: rgb(157, 201, 157);
+    --sec: gray;
+    --tert: white;
+    --btncolor: rgb(51, 82, 51);
+    }
+
+    *{box-sizing: border-box;}
+
+
+    .footer{
+        background-color: var(--prim);
+    }
+    
+.header{
+    background-color: var(--prim);
+
+
+}
+
+
+
+.topnav-list:hover{
+    padding: 8px 16px;
+    background-color: aqua;
+    color: #fff;
+    border-radius: 5px ;
+
+}
+
+    
